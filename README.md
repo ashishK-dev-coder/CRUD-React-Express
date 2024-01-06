@@ -7,13 +7,13 @@ There have two folders --
 Clone the repository
 
 # Step 2 :
-Open IDE - In client 
+Open IDE - In client <br/>
       (Terminal 1)
 -- command 1 = npm install
 -- command 2 = npm run dev
 
 # Step 3 :
-Now In server 
+Now In server <br/>
      (Terminal 2)
 -- command 1 = npm install
 -- command 2 = npm run dev
